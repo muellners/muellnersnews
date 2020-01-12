@@ -5,7 +5,7 @@ categories: press
 location: Copenhagen Capital,
 country: Denmark
 date: November 5, 2019
-author: Ankit Sharma
+author: Press Release Muellners
 ---
 
 EINPresswire.com -- Muellners today launched Finscale- a financial technology suite of Core banking system with Open banking API middleware.
