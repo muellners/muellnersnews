@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Muellners launches Finscale banking as a platform supported with IBM cloud, openbanking & Apache Fineract"
+title: "Muellners introduces Finscale banking as a platform supported with IBM cloud, openbanking & Apache Fineract"
 categories: press
 location: Copenhagen Capital,
 country: Denmark
