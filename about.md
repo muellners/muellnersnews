@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the Newsroom section of Muellners. 
+You can find all major press releases issued by us - both our company and the Not for Profit Social Foundation.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can also find different outreach campaigns and information published by external sources about Muellners group.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can use these published information to publish at your news website, blog and any other medium.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Feel free to reach out in case of queries and support. 
+Email - 
+For Muellners LLC - partner@muellners.com
+For Muellners Foundation - info@muellners.org
