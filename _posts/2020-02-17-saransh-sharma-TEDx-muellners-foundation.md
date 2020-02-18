@@ -4,7 +4,7 @@ title: "Saransh Sharma from Research, set to deliver a TEDx talk in Pune, India,
 categories: press
 location: Copenhagen/Pune
 country: Denmark/India
-date: February 02, 2020
+date: February 17, 2020
 author: Muellners Foundation
 ---
 
