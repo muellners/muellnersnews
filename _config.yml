@@ -14,7 +14,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: Muellnertech
+    twitter: muellnersorg
     github:  muellners
     rss: rss
     # dribbble: jekyll
