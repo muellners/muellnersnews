@@ -11,7 +11,6 @@ You can also find different outreach campaigns and information published by exte
 
 You can use these published information to publish at your news website, blog and any other medium.
 
-Feel free to reach out in case of queries and support. 
-Email - 
+Feel free to reach out in case of queries and support.
 
 For press queries, reach out at - info@muellners.org
