@@ -1,5 +1,5 @@
 title: Newsroom by Muellners
-author: ©2012-2021 :Muellners® Inc Denmark CVR:41548304;India CIN: U72900DL2019PTC344870; Muellners® Foundation Denmark CVR: 41008407
+author: ©2012-2021 :Muellners® Inc: Denmark CVR:41548304;India CIN: U72900DL2019PTC344870; Muellners® Foundation Denmark CVR: 41008407
 # email: news@muellners.com
 description: > # this means to ignore newlines until "show_excerpts:"
   A global technology capital firm. Our focus on social, financial & digital inclusion.
@@ -21,7 +21,7 @@ minima:
     facebook: muellners
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: company/muellners
+    linkedin: muellners
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
