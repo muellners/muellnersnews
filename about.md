@@ -13,5 +13,5 @@ You can use these published information to publish at your news website, blog an
 
 Feel free to reach out in case of queries and support. 
 Email - 
-For Muellners LLC - partner@muellners.com
-For Muellners Foundation - info@muellners.org
+
+For press queries, reach out at - info@muellners.org
